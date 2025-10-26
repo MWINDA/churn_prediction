@@ -1,0 +1,7 @@
+2025-10-26 13:36:06,698 - INFO - Mode: DEBUG – train/test split 80/20
+2025-10-26 13:36:06,703 - INFO - Scaler saved to models\scaler.pkl
+2025-10-26 13:36:06,713 - INFO - Baseline model saved to models/baseline_model.pkl
+2025-10-26 13:36:06,714 - INFO - Baseline accuracy: 0.7398
+2025-10-26 13:36:06,955 - INFO - XGBoost model saved to models/xgb_model.pkl
+2025-10-26 13:36:06,958 - INFO - XGBoost accuracy: 0.7800
+2025-10-26 13:36:06,958 - INFO - Training process completed.
