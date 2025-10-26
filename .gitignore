@@ -1,5 +1,4 @@
-# Environnement virtuel
-venv_churn/
+
 
 # Exclure tout le contenu du dossier data/
 data/
@@ -7,3 +6,17 @@ data/
 # Fichiers de configuration ou secrets locaux
 .env
 *.env
+# Python / venv
+.venv/
+venv/
+venv_churn/
+__pycache__/
+*.pyc
+
+# Artefacts
+*.joblib
+*.pkl
+*.h5
+
+# IDE
+.vscode/
