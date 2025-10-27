@@ -22,4 +22,4 @@ __pycache__/
 .vscode/
 
 # MLruns
-MLruns/*
+mlruns/*
