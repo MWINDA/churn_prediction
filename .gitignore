@@ -20,3 +20,6 @@ __pycache__/
 
 # IDE
 .vscode/
+
+# MLruns
+MLruns/*
